@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "908661671062",
+    "firebase_url": "https://simple-iot-project-4cb60-default-rtdb.firebaseio.com",
+    "project_id": "simple-iot-project-4cb60",
+    "storage_bucket": "simple-iot-project-4cb60.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908661671062:android:f4b5dc6de985e69e19eeb7",
+        "android_client_info": {
+          "package_name": "com.example.simple_iot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNzBnWd8eNJ0p2MZ_4cw2xMlu5fLZxOKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908661671062:android:b6d8a0911cb5336819eeb7",
+        "android_client_info": {
+          "package_name": "com.example.simple_iot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNzBnWd8eNJ0p2MZ_4cw2xMlu5fLZxOKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908661671062:android:40b357de4f7d5a2719eeb7",
+        "android_client_info": {
+          "package_name": "com.simple.iot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNzBnWd8eNJ0p2MZ_4cw2xMlu5fLZxOKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
